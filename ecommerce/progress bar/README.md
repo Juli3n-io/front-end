@@ -21,7 +21,7 @@ Add the progress bar HTML structure to the appropriate location in your page.
 Add the disabled class to the items you want to disable in the progress bar.
 
 ````html
-<div class="progress__bar">
+<div class="progress__bar--elements-container">
   <div class="progress__bar--element">Panier</div>
   <div class="progress__bar--element ">Validation</div>
   <div class="progress__bar--element disabled">Confirmation</div>
